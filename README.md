@@ -27,10 +27,14 @@ Tests for these classes in the `tests` directory must all pass through the depen
 All tests must pass.
 
 
+
+
 ![roster](https://user-images.githubusercontent.com/65749636/107470953-1ed06a00-6b21-11eb-96b0-e05a0cf5574a.PNG)
 
 
 The video link for the app's functionality is,  
+
+
 https://user-images.githubusercontent.com/65749636/107469235-39551400-6b1e-11eb-9f5c-df2ea7bc18e0.mp4
 
 
