@@ -1,5 +1,5 @@
 # Unit 10 OOP Homework: Template Engine - Employee Summary
-![employee Summ](https://user-images.githubusercontent.com/65749636/107456795-b9bb4b00-6b05-11eb-9c2c-77082866e415.PNG)
+![Capture](https://user-images.githubusercontent.com/65749636/107458124-50890700-6b08-11eb-891b-d5a0a4ba5dce.PNG)
 
 As a manager
 I want to generate a webpage that displays my team's basic info
