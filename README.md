@@ -13,9 +13,9 @@ methods:
   * getEmail()
   * getRole() // Returns 'Employee'
   
-  The other three classes will extend `Employee`
+  with the other three classes extending `Employee`
   
-  Requirements
+Requirements
 
 The requirements of the application are to have a functional application.
 
@@ -27,7 +27,7 @@ Tests for these classes in the `tests` directory must all pass through the depen
 All tests must pass.
 
 
-![Capture](https://user-images.githubusercontent.com/65749636/107458124-50890700-6b08-11eb-891b-d5a0a4ba5dce.PNG)
+![roster](https://user-images.githubusercontent.com/65749636/107470953-1ed06a00-6b21-11eb-96b0-e05a0cf5574a.PNG)
 
 
 The video link for the app's functionality is,  
