@@ -15,7 +15,12 @@ methods:
   
   with the other three classes extending `Employee`
   
-  Technologies Used
+ ## Technologies Used
+ 
+ * HTML
+ * 
+ * package.json
+ * inquirer npm package
   
   ## License
   ISC
