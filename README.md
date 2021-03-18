@@ -18,7 +18,8 @@ methods:
  ## Technologies Used
  
  * HTML
- * 
+ * node.js
+ * jest
  * package.json
  * inquirer npm package
   
