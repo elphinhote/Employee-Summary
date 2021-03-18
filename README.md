@@ -18,7 +18,9 @@ methods:
   Technologies Used
   
   ## License
-# ISC
+  ISC
+
+<img src="https://img.shields.io/badge/LICENSE-isc-green"/>
   
 Requirements
 
