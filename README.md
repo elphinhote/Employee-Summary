@@ -15,6 +15,11 @@ methods:
   
   with the other three classes extending `Employee`
   
+  Technologies Used
+  
+  ## License
+# ISC
+  
 Requirements
 
 The requirements of the application are to have a functional application.
